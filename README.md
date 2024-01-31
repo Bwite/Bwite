@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bwite
 - 👀 I’m interested in databases
-- 🌱 I’m currently learning Laravel
-- 💞️ I’m looking to collaborate on SQL
+- 🌱 I’m currently learning Web and Adroid Developement
+- 💞️ I’m looking to collaborate on any projects in web and android programming
 - 📫 How to reach me, email me on Bwite211@gmail.com
 
 <!---
